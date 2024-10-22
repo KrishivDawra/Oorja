@@ -3,7 +3,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'seagreen': '#481E14',}
+        'seagreen': '#481E14',
+        }
     },
   },
   plugins: [],
