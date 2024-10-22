@@ -4,12 +4,13 @@ import React from 'react'
 function body() {
   return (
     <div>
+      <div>
+        <img src="" alt="" />
 
-      
+        <p className='p-5 flex justify-center items-center text-6xl font-serif font-bold text-white'>Where Energy Meets Innovation</p>
+      </div>
 
-   
-
-      <h1 className='text-5xl font-serif font-bold flex justify-center items-center pt-10 pb-5 text-white'>Green Energy's</h1>
+      <h1 className='text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>Green Energy's</h1>
 
 {/* Green Energy */}
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row overflow-hidden'>
@@ -122,8 +123,6 @@ function body() {
 {/* Manfacturing and Infra */}
 
       <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>Manf & Infra</h1>
-
-      
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
