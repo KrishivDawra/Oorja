@@ -4,6 +4,7 @@ function body() {
   return (
     <div>
 
+      
 
       <div>
         <img src="" alt="" />
@@ -21,7 +22,6 @@ function body() {
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Wind Energy</h1>
           <p>Wind energy captures the kinetic energy of wind using turbines, converting it into electricity. This rapidly growing renewable energy source offers a sustainable alternative to fossil fuels. Wind farms, located on land or offshore, maximize energy production in high-wind areas. Wind energy significantly reduces greenhouse gas emissions and creates jobs in manufacturing and maintenance, contributing to energy independence and a cleaner environment for future generations.
           </p>
-          
         </div>
 
         <div className='w-80 h-128 border-solid border-black border-2 rounded-lg bg-slate-300'>

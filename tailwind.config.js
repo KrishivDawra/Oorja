@@ -6,7 +6,7 @@ module.exports = {
         'seagreen': '#481E14',
         },
         height: {
-          '128': '38rem',
+          '128': '45rem',
         }
     },
   },
