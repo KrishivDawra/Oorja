@@ -4,9 +4,9 @@ function header() {
   return (
    <>
    <div>
-   <div className='flex justify-between border-slate-900 align-baseline'>
-      <img className='h-[90px] w-[110px] rounded-full size-48 ' src=".\src\assets\logo123-removebg-preview.png" alt="" />
-        <ul className='lg:flex lg:space-x-4 lg:py-8 lg:text-black hidden'>
+   <div className='flex justify-between bg-stone-900 align-baseline text-slate-50'>
+      <img className='h-[60px] w-[150px]  mt-4 size-48 ' src=".\src\assets\header.jpeg" alt="" />
+        <ul className='lg:flex lg:space-x-4 lg:py-8 lg:text-slate-50 hidden '>
             <li className='font-serif font-semibold  hover:text-black'> Home</li>
             <li className='font-serif font-semibold  hover:text-black'> Green Energy</li>
             <li className='font-serif font-semibold  hover:text-black'>EV's Sector</li>
