@@ -4,13 +4,20 @@ function body() {
   return (
     <div>
 
+
+      <div>
+        <img src="" alt="" />
+
+        <p className='p-5 flex justify-center items-center text-6xl font-serif font-bold'>Where Energy Meets Innovation</p>
+      </div>
+
       <h1 className='text-5xl font-serif font-bold flex justify-center items-center pb-5'>Green Energy's</h1>
 
 {/* Green Energy */}
-      <div className='flex gap-6 flex-col justify-center items-center'>
+      <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
-        <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
-          <img src=".\src\assets\solar.jpg" alt="" />
+        <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300 '>
+          <img  src=".\src\assets\b1.jpg" alt="" />
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Green Energy</h1>
           <p>Proper electrical connections ensure efficient energy transfer and prevent hazards like energy loss, system failure, or electrical fires in solar power setups.</p>
         </div>
