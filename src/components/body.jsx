@@ -3,9 +3,6 @@ import React from 'react'
 function body() {
   return (
     <div>
-
-      
-
       <div>
         <img src="" alt="" />
 
@@ -109,8 +106,6 @@ function body() {
 {/* Manfacturing and Infra */}
 
       <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>Manf & Infra</h1>
-
-      
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
