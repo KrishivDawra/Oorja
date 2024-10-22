@@ -114,42 +114,24 @@ function body() {
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
-<<<<<<< HEAD
-          <img src=".\src\assets\im1.jpg" alt="" />
-          <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Role in Economic Growth
-          </h1>
-          <p>The manufacturing industry is a key driver of economic growth, creating jobs, boosting exports, and fostering innovation. By producing goods for domestic and global markets, manufacturers support infrastructure development and enhance productivity. Manufacturing contributes to wealth generation and the overall economic stability of countries, playing a crucial role in shaping industrialized and developing economies alike.
-          </p>
-=======
           <img src=".\src\assets\solar.jpg" alt="" />
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Green Energy</h1>
           <p>Proper electrical connections ensure efficient energy transfer and prevent hazards like energy loss, system failure, or electrical fires in solar power setups.</p>
->>>>>>> parent of 8a771b9 (all)
         </div>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\manf.jpg" alt="" />
-<<<<<<< HEAD
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Technological Advancements
           </h1>
           <p>Automation, robotics, and artificial intelligence (AI) are revolutionizing the manufacturing industry, making production processes more efficient and cost-effective. Advanced technologies streamline operations, reduce human error, and improve product quality. With the rise of Industry 4.0, manufacturers are adopting smart technologies to optimize supply chains, minimize waste, and enhance decision-making through real-time data analysis, transforming traditional manufacturing models.
           .</p>
-=======
-          <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Nitin Gadhkari</h1>
-          <p>The manufacturing industry drives innovation, economic growth, and provides essential products worldwide.</p>
->>>>>>> parent of 8a771b9 (all)
         </div>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\manf.jpg" alt="" />
-<<<<<<< HEAD
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Sustainable Manufacturing</h1>
           <p>Sustainable practices in the manufacturing industry are becoming increasingly important, with a focus on reducing waste, energy consumption, and emissions. By implementing eco-friendly technologies and recycling programs, manufacturers can minimize their environmental impact. Sustainable manufacturing also enhances brand reputation, attracts eco-conscious consumers, and supports long-term profitability while promoting environmental responsibility within the industry.
           </p>
-=======
-          <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Modi</h1>
-          <p>The manufacturing industry drives innovation, economic growth, and provides essential products worldwide</p>
->>>>>>> parent of 8a771b9 (all)
         </div>
       </div>
 
@@ -157,40 +139,25 @@ function body() {
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\solar.jpg" alt="" />
-<<<<<<< HEAD
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Global Supply Chain Integration</h1>
           <p>The manufacturing industry plays a critical role in global supply chains, ensuring the efficient production and delivery of goods worldwide. Manufacturers work with suppliers and distributors to optimize operations and reduce lead times. However, global disruptions, such as the COVID-19 pandemic, have highlighted the need for resilience and flexibility in supply chains, encouraging businesses to diversify sourcing and explore local manufacturing options.
           .</p>
-=======
-          <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Green Energy</h1>
-          <p>Proper electrical connections ensure efficient energy transfer and prevent hazards like energy loss, system failure, or electrical fires in solar power setups.</p>
->>>>>>> parent of 8a771b9 (all)
         </div>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\manf.jpg" alt="" />
-<<<<<<< HEAD
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Workforce Development
           </h1>
           <p>As manufacturing becomes more automated and technologically advanced, the demand for skilled workers increases. Manufacturers must invest in workforce development through training and education to equip employees with the skills needed for modern manufacturing environments. This includes expertise in operating advanced machinery, understanding data analytics, and maintaining automation systems, ensuring the industry's workforce is ready for future challenges.
           </p>
-=======
-          <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Nitin Gadhkari</h1>
-          <p>The manufacturing industry drives innovation, economic growth, and provides essential products worldwide.</p>
->>>>>>> parent of 8a771b9 (all)
         </div>
 
         <div className=' w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\manf.jpg" alt="" />
-<<<<<<< HEAD
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'> Customization and Flexibility
           </h1>
           <p>Modern manufacturing trends emphasize customization and flexibility to meet changing consumer demands. Companies are shifting from mass production to personalized, small-batch manufacturing, enabled by technologies like 3D printing and digital design tools. This shift allows manufacturers to respond quickly to market trends, enhance customer satisfaction, and reduce excess inventory, driving greater efficiency and profitability in a dynamic global marketplace.
           </p>
-=======
-          <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Modi</h1>
-          <p>The manufacturing industry drives innovation, economic growth, and provides essential products worldwide</p>
->>>>>>> parent of 8a771b9 (all)
         </div>
       </div>
     </div>
