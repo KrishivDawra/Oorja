@@ -7,7 +7,7 @@ function App() {
  
   return (
     <>
-    <div className="bg-seagreen">
+    <div className="bg-seagreen scroll-smooth">
     <Header/>
     <Body/>
     <Footer/>
