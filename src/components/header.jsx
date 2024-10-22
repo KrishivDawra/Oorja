@@ -3,9 +3,6 @@ import React from 'react'
 function header() {
   return (
    <>
-<<<<<<< HEAD
-   <div></div>
-=======
    <div>
    <div className='flex justify-between border-slate-900 align-baseline'>
       <img className='h-[90px] w-[110px] rounded-full size-48 ' src=".\src\assets\logo123-removebg-preview.png" alt="" />
@@ -21,7 +18,6 @@ function header() {
         </div>
     </div>
    </div>
->>>>>>> 6270caa88702d779949908897727a37801ee3dee
    </> 
   )
 }
