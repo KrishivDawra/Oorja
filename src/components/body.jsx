@@ -114,7 +114,7 @@ function body() {
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
-          <img src=".\src\assets\solar.jpg" alt="" />
+          <img src=".\src\assets\im1.jpg" alt="" />
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Role in Economic Growth
           </h1>
           <p>The manufacturing industry is a key driver of economic growth, creating jobs, boosting exports, and fostering innovation. By producing goods for domestic and global markets, manufacturers support infrastructure development and enhance productivity. Manufacturing contributes to wealth generation and the overall economic stability of countries, playing a crucial role in shaping industrialized and developing economies alike.
