@@ -7,7 +7,7 @@ function body() {
       
 
       <div>
-        <img src="" alt="" />
+        <img src="#" alt="" />
 
         <p className='p-5 flex justify-center items-center text-6xl font-serif font-bold text-white'>Where Energy Meets Innovation</p>
       </div>
