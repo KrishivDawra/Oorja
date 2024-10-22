@@ -21,6 +21,7 @@ function body() {
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Green Energy</h1>
           <p>Wind energy captures the kinetic energy of wind using turbines, converting it into electricity. This rapidly growing renewable energy source offers a sustainable alternative to fossil fuels. Wind farms, located on land or offshore, maximize energy production in high-wind areas. Wind energy significantly reduces greenhouse gas emissions and creates jobs in manufacturing and maintenance, contributing to energy independence.
           </p>
+          
         </div>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
@@ -37,7 +38,7 @@ function body() {
         </div>
       </div>
 
-      <div className='pt-5 flex gap-6 flex-col justify-center items-center hidden'>
+      <div className='lg:pt-5 lg:flex lf:gap-6  lg:justify-center lg:gap-5 lg:items-center hidden'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\solar.jpg" alt="" />
@@ -62,7 +63,7 @@ function body() {
 
       <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>EV's</h1>
 
-      <div className='flex gap-6 flex-col justify-center items-center'>
+      <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\solar.jpg" alt="" />
@@ -83,7 +84,7 @@ function body() {
         </div>
       </div>
 
-      <div className='pt-5 flex gap-6 flex-col justify-center items-center hidden'>
+      <div className='lg:pt-5 lg:flex lf:gap-6  lg:justify-center lg:gap-5 lg:items-center hidden'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\solar.jpg" alt="" />
@@ -106,10 +107,10 @@ function body() {
 
 {/* Manfacturing and Infra */}
 
-      <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5'>Manf & Infra</h1>
+      <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>Manf & Infra</h1>
 
       
-      <div className='flex gap-6 flex-col justify-center items-center'>
+      <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\solar.jpg" alt="" />
@@ -130,7 +131,7 @@ function body() {
         </div>
       </div>
 
-      <div className='pt-5 flex gap-6 flex-col justify-center items-center hidden'>
+      <div className='lg:pt-5 lg:flex lf:gap-6  lg:justify-center lg:gap-5 lg:items-center hidden'>
 
         <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\solar.jpg" alt="" />
