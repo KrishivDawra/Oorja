@@ -10,7 +10,6 @@ function body() {
         <img src="" alt="" />
 
         <p className='p-5 flex justify-center items-center text-6xl font-serif font-bold'>Where Energy Meets Innovation</p>
-        <p className='p-5 flex justify-center items-center text-6xl font-serif font-bold'>Where Energy Meets Innovation</p>
       </div>
 
       <h1 className='text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>Green Energy's</h1>
@@ -176,6 +175,7 @@ function body() {
         </div>
       </div>
     </div>
+    </div>  
   )
 }
 
