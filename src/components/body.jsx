@@ -16,22 +16,21 @@ function body() {
 {/* Green Energy */}
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row overflow-hidden'>
 
-        <div className='w-80 h-128 border-solid border-black border-2 rounded-lg bg-slate-300    '>
-          <img className='h-70' src=".\src\assets\b1.jpg" alt="" />
+        <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300    '>
+          <img  src=".\src\assets\b1.jpg" alt="" />
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Green Energy</h1>
           <p>Wind energy captures the kinetic energy of wind using turbines, converting it into electricity. This rapidly growing renewable energy source offers a sustainable alternative to fossil fuels. Wind farms, located on land or offshore, maximize energy production in high-wind areas. Wind energy significantly reduces greenhouse gas emissions and creates jobs in manufacturing and maintenance, contributing to energy independence.
           </p>
-          
         </div>
 
-        <div className='w-80 h-128 border-solid border-black border-2 rounded-lg bg-slate-300'>
-          <img className='h-70' src=".\src\assets\manf.jpg" alt="" />
+        <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
+          <img src=".\src\assets\manf.jpg" alt="" />
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Nitin Gadhkari</h1>
           <p>Solar energy harnesses sunlight through photovoltaic cells to generate clean electricity. This renewable resource reduces reliance on fossil fuels and lowers carbon emissions. Solar panels can be installed on rooftops or in solar farms, providing cost savings on electricity bills. Continuous advancements in solar technology enhance efficiency and affordability, making it an increasingly popular option for individuals and businesses seeking sustainable energy solutions.
           </p>
           </div>
 
-        <div className='w-80 h-128 border-solid border-black border-2 rounded-lg bg-slate-300'>
+        <div className='w-80 border-solid border-black border-2 rounded-lg bg-slate-300'>
           <img src=".\src\assets\manf.jpg" alt="" />
           <h1 className='justify-center items-center flex font-bold font-serif text-2xl'>Modi</h1>
           <p>The manufacturing industry drives innovation, economic growth, and provides essential products worldwide</p>
@@ -107,7 +106,7 @@ function body() {
 
 {/* Manfacturing and Infra */}
 
-      <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5 text-white'>Manf & Infra</h1>
+      <h1 className='pt-8 text-5xl font-serif font-bold flex justify-center items-center pb-5 text-whi'>Manf & Infra</h1>
 
       
       <div className='flex gap-6 flex-col justify-center items-center lg:flex-row'>
